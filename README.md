@@ -6,3 +6,5 @@ A custom discord bot that auto deletes singular text message on the given channe
 - Embed                             - auto delete
 - Image attachments                 - keep
 - Image attachment with text        - keep
+
+Use  `$$exit` to terminate the program through discord.
